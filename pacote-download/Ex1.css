@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(72, 139, 240);
+}
+
+h1{
+    color: white;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+}
+
+#card1{
+    max-width: 500px;
+    background-color: white;
+    margin: auto;
+    padding: 10px;
+    padding-top: 20px;
+    box-sizing: border-box;
+    box-shadow: 3px 3px 10px rgb(0, 0, 0, 0.363);
+    border-radius: 15px;
+}
+
+#card2{
+    width: 100px;
+    padding-bottom: 10px;
+    font-size: 1rem;
+    
+}
+
+#card2 p{
+    display: inline-flex;
+}
+
+input{
+    margin: 5px;
+    text-align: center;
+}
+
+#txtc{
+    width: 60px;
+}
